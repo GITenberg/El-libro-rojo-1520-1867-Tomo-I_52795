@@ -1,0 +1,53 @@
+_repo: El-libro-rojo-1520-1867-Tomo-I_52795
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Riva Palacio, Vicente
+    aliases:
+    - Guerrero, Vicente Riva Palacio y
+    - Cero
+    - Palacio, Vicente Riva
+    birthdate: 1832
+    deathdate: 1896
+    gutenberg_agent_id: '45403'
+    url: http://www.gutenberg.org/2009/agents/45403
+    wikipedia: https://es.wikipedia.org/wiki/Vicente_Riva_Palacio
+  - agent_name: Martinez de la Torre, Rafael
+    aliases:
+    - De la Torre, Rafael Martinez
+    - Torre, Rafael Martinez de la
+    - La Torre, Rafael Martinez de
+    birthdate: 1828
+    deathdate: 1876
+    gutenberg_agent_id: '47044'
+    url: http://www.gutenberg.org/2009/agents/47044
+  - agent_name: Mateos, Juan A. (Juan Antonio)
+    alias: Mateos, Juan Antonio
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '47043'
+    url: http://www.gutenberg.org/2009/agents/47043
+  - agent_name: Payno, Manuel
+    aliases:
+    - Flores, Manuel Payno y
+    - Cruzado, Manuel Payno
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '47042'
+    url: http://www.gutenberg.org/2009/agents/47042
+description: ''
+gutenberg_issued: '2016-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52795'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- History'
+- !lcc 'F1201'
+- !lcsh 'Executions and executioners'
+- GITenberg
+title: El libro rojo, 1520-1867, Tomo I
+url: http://www.gutenberg.org/ebooks/52795
